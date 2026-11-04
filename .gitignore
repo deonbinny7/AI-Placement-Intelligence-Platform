@@ -31,3 +31,8 @@ models/*.h5
 .env
 __pycache__/
 *.py[cod]
+
+# Runtime data
+*.log
+backend/logs/
+backend/uploads/
